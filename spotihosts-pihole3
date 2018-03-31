@@ -48,6 +48,6 @@
 127.0.0.1 www.audio2.spotify.com
 127.0.0.1 desktop.spotify.com 
 127.0.0.1 heads-ec.spotify .com 
-127.0.0.1 open.spotify.com
+# 127.0.0.1 open.spotify.com
 # 127.0.0.1 spclient.wg.spotify.com 
 ############## SPOTIFY - ADS - END
