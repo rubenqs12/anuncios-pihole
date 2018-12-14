@@ -19,7 +19,7 @@
 127.0.0.1 u.scdn.co 
 127.0.0.1 cs126.wpc.edgecastcdn.net 
 127.0.0.1 pagead46.l.doubleclick.net 
-127.0. 0.1 pagead.l.doubleclick.net 
+127.0.0.1 pagead.l.doubleclick.net 
 127.0.0.1 video-ad-stats.googlesyndication.com 
 127.0.0.1 pagead-googlehosted.l.google.com 
 127.0.0.1 partnerad.l.doubleclick.net 
@@ -29,7 +29,7 @@
 127.0.0.1 anycast.pixel.adsafeprotected.com 
 127.0.0.1 ads.pubmatic.com 
 127.0.0.1 idsync-ext.rlcdn.com 
-127.0. 0.1 www.googletagservices.com
+127.0.0.1 www.googletagservices.com
 127.0.0.1 googlehosted.l.googleusercontent.com
 127.0.0.1 d361oi6ppvq2ym.cloudfront.net 
 127.0.0.1 gads.pubmatic.com 
