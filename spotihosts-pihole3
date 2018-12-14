@@ -36,8 +36,8 @@
 127.0.0.1 ads-west-colo.adsymptotic.com 
 127.0.0.1 geo3.ggpht.com 
 127.0.0.1 showads33000.pubmatic.com 
-#127.0.0.1 crashdump.spotify .com 
-#127.0.0.1 adeventtracker.spotify.com 
+127.0.0.1 crashdump.spotify .com 
+127.0.0.1 adeventtracker.spotify.com 
 127.0.0.1 log.spotify.com 
 127.0.0.1 analytics.spotify.com 
 127.0.0.1 ads-fa.spotify.com 
@@ -48,8 +48,8 @@
 127.0.0.1 www.audio2.spotify.com
 127.0.0.1 desktop.spotify.com 
 127.0.0.1 heads-ec.spotify .com 
-127.0.0.1 open.spotify.com
-127.0.0.1 spclient.wg.spotify.com
+#127.0.0.1 open.spotify.com
+#127.0.0.1 spclient.wg.spotify.com
 
 ############## SPOTIFY - ADS - END
 
