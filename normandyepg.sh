@@ -6,7 +6,7 @@
 
 # Definición de variables
 NOMBRE_APP="NormandyEPG"
-CARPETA_TVH="/storage/.kodi/userdata/addon_data/service.tvheadend42"
+CARPETA_TVH="/"
 carpeta_channel="$CARPETA_TVH/channel/config/*"
 carpeta_tag="$CARPETA_TVH/channel/tag/*"
 
@@ -50,14 +50,15 @@ carpeta_tag="$CARPETA_TVH/channel/tag/*"
 		rm -rf input/
 	fi
 	
-	cd /storage/
-	
-	wget normandy.es/files/normandyepg.tar
-	
-	systemctl stop tvheadend.service
-	
-	tar xpf normandyepg.tar
-	
-	rm -rf normandyepg.tar
-	
-	systemctl start tvheadend.service
+#	cd /storage/
+#	
+#	wget normandy.es/files/normandyepg.tar
+#	
+#	systemctl stop tvheadend.service
+#	
+#	tar xpf normandyepg.tar
+#	
+#	rm -rf normandyepg.tar
+#	
+#	systemctl start tvheadend.service
+#
